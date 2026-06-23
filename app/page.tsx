@@ -459,7 +459,6 @@ export default function Home() {
           )}
         </ul>
       </div>
-      <footer className="footer">Next.js で作ったTodoアプリ</footer>
     </main>
   );
 }
